@@ -9,3 +9,4 @@ If you want to do this on your own, This is the order of the projects, from simp
 6. more_components - Practice utilising components and CSS
 7. spread_operators - Passing parameters down the component hierarchy.
 8. states - Dynamically changing components.
+9. data-to-ui - Integrating javascript algorithms into React. Switching to the up-to-date version of React, introducing some more complexity.
